@@ -30,6 +30,10 @@ I worked with a normalized relational schema including:
 
 ---
 
+## 📊 Project Visuals
+
+![Analysis Result](chart.png)
+
 ## 📝 Key SQL Analysis
 To extract the insights, I wrote a complex query joining **four tables**.
 
@@ -47,6 +51,3 @@ GROUP BY ar.name
 ORDER BY total_sales DESC
 LIMIT 10;
 
-## 📊 Project Visuals
-
-![Analysis Result](chart.png)
