@@ -46,3 +46,7 @@ WHERE g.name = 'Rock'
 GROUP BY ar.name
 ORDER BY total_sales DESC
 LIMIT 10;
+
+## 📊 Project Visuals
+
+![Analysis Result](chart.png)
